@@ -25,10 +25,10 @@ export default function HeroSection(): JSX.Element {
 
         <div className="flex gap-6">
           <button className="bg-blue-500 hover:bg-blue-600 text-white px-8 py-3 rounded-full font-semibold transition-colors">
-            Place Your Order
+            Send
           </button>
           <button className="border-2 border-white hover:bg-white hover:text-blue-900 text-white px-8 py-3 rounded-full font-semibold transition-colors">
-            Contact Us
+            Recieve
           </button>
         </div>
       </div>
